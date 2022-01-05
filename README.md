@@ -22,38 +22,42 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
-
-
-
+<p align="center">
+  </a>
+  <a <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/<a 80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+  <a <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/<a 80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+  <a <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/<a 80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+  <a <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/<a 80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
+  <a <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/<a 80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
+  <a <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/<a 80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+  <a <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/<a 80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+  <a <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/<a 80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+  <a <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/<a 80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+  <a <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/<a 78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+  <a <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/<a 80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+  <a <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/<a 80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
+</p>
 
 <br />
-<br />
+
+<p align="center">
+    <a href="https://github.com/zigiiprens/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="zigiiprens's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zigiiprens&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 ---
 
 <details>
-<p align="center">
-  <summary>:zap: GitHub Top Languages</summary>
+  <summary>:zap: 📊 GitHub Top Languages</summary>
   
 <br/>
-<a href="https://github.com/zigiiprens/github-readme-stats"><img alt="zigiiprens's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zigiiprens&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-</p>
+  <a href="https://github.com/zigiiprens/github-readme-stats"><img alt="zigiiprens's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zigiiprens&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
 </details>
 
 <details>
-  <summary>:zap: Activity Graph</summary>
+  <summary>:zap: 📊 Activity Graph</summary>
   
 <br/>
 <a href="https://github.com/zigiiprens/github-readme-activity-graph"><img alt="zigiiprens's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=zigiiprens&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
@@ -61,7 +65,7 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: 📊 GitHub Stats</summary>
 
   <img align="left" alt="zigiiprens's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zigiiprens&show_icons=true&hide_border=true" />
 
