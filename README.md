@@ -44,10 +44,10 @@
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap: Recent GitHub Top Languages</summary>
   
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<br/>
+  <a href="https://github.com/Stp155906/github-readme-stats"><img alt="zigiiprens's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zigiiprens&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 </details>
 
