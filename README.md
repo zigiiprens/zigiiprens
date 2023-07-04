@@ -79,7 +79,7 @@
   <summary>:zap: 📊 GitHub Stats</summary>
 
   <br/>
-  <img alt="zigiiprens's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zigiiprens&show_icons=true&hide_border=true" />
+  <img alt="zigiiprens's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zigiiprens?include_all_commits=true&show_icons=true&hide_border=true" />
 
 </details>
 
