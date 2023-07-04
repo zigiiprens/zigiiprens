@@ -63,7 +63,7 @@
   <summary>:zap: 📊 GitHub Top Languages</summary>
   
 <br/>
-  <a href="https://github.com/zigiiprens/github-readme-stats"><img alt="zigiiprens's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zigiiprens&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/zigiiprens/github-readme-stats"><img alt="zigiiprens's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zigiiprens&langs_count=8&count_private=true&layout=donut&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 </details>
 
