@@ -74,6 +74,8 @@
 <a href="https://github.com/zigiiprens/github-readme-activity-graph"><img alt="zigiiprens's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=zigiiprens&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true&height=200" /></a>
 
 <details>
+  
+<details>
   <summary>:zap: 📊 GitHub Stats</summary>
 
   <br/>
