@@ -7,7 +7,7 @@
 - 🔭 I am working on my first blog: [Djaboutai]!
 - 🌱 I’m currently learning gO and rUST 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more and more
+- 🥅 2023 Goals: Contribute more and more
 - ⚡ Fun fact: I love coffee
 
 ### Connect with me:
