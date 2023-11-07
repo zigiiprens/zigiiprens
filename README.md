@@ -31,33 +31,28 @@
   <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
   <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
   <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-  <!-- <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png" /> -->
   <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
   <img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
 
 
-
-
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 <br />
 <br />
 
 ---
+
+<br />
 
 <p align="center">
     <a href="https://github.com/zigiiprens/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="zigiiprens's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zigiiprens&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+
 <br />
 
 ---
+
+<br />
 
 <details>
   <summary>:zap: 📊 GitHub Top Languages</summary>
@@ -67,25 +62,19 @@
 
 </details>
 
-<details>
-  <summary>:zap: 📊 Activity Graph</summary>
-  
-<br/>
-<a href="https://github.com/zigiiprens/github-readme-activity-graph"><img alt="zigiiprens's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=zigiiprens&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true&height=400" /></a>
-
-</details>
-  
-<details>
-  <summary>:zap: 📊 GitHub Stats</summary>
-
-  <br/>
-  <img alt="zigiiprens's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zigiiprens&include_all_commits=true&show_icons=true&hide_border=true" />
-
-</details>
-
 <!-- [website]: https://codeSTACKr.com -->
 <!-- [course]: http://vsCodeHero.com -->
 [twitter]: https://twitter.com/b2sam
 <!-- [youtube]: https://youtube.com/codeSTACKr -->
 [instagram]: https://instagram.com/zigiiprens
 [linkedin]: https://linkedin.com/in/zigiiprens
+
+<br />
+
+---
+
+<br />
+
+![Metrics](https://metrics.lecoq.io/zigiiprens?template=classic&followup=1&config.animated=true)
+
+<br />
