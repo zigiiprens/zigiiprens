@@ -21,7 +21,7 @@
 <br />
 
 ### Languages and Tools:
-
+<br />
   <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
   <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -38,6 +38,15 @@
 <br />
 <br />
 
+
+### 📊 GitHub Top Languages:
+  
+<br/>
+<p align="center">
+  <a href="https://github.com/zigiiprens/github-readme-stats"><img alt="zigiiprens's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zigiiprens&langs_count=8&count_private=true&layout=donut&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</p>
+<br />
+
 ---
 
 <br />
@@ -50,17 +59,6 @@
 
 <br />
 
----
-
-<br />
-
-<details>
-  <summary>:zap: 📊 GitHub Top Languages</summary>
-  
-<br/>
-  <a href="https://github.com/zigiiprens/github-readme-stats"><img alt="zigiiprens's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zigiiprens&langs_count=8&count_private=true&layout=donut&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-</details>
 
 <!-- [website]: https://codeSTACKr.com -->
 <!-- [course]: http://vsCodeHero.com -->
